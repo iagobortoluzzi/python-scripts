@@ -15,8 +15,3 @@ Script em Python que permite gerar senhas fortes e personalizadas, com avalia√ß√
 ## Tecnologias
 
 - Python 3
-
-## Como executar
-
-```bash
-python main.py
