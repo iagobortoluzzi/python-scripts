@@ -1,0 +1,20 @@
+RELATÓRIO DE ANÁLISE DE TEXTO
+
+caracteres: 39
+letras: 29
+palavras: 9
+frases: 2
+total_palavras: 9
+vocabulario: 9
+diversidade: 100.0
+
+TOP 10 PALAVRAS:
+olá: 1
+tudo: 1
+bem: 1
+esse: 1
+é: 1
+um: 1
+texto: 1
+de: 1
+teste: 1
